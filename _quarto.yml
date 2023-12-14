@@ -34,7 +34,7 @@ book:
     style: floating
     tools: 
       - icon: github
-        href: https://github.com/Coleridge-Initiative
+        href: https://github.com/Coleridge-Initiative/ada-2023-wi
         
 format:
   html:
@@ -45,7 +45,7 @@ format:
     toc: true
     df-print: paged
     number-depth: 1
-    number-sections: false
+    number-sections: true
 
 editor: visual
 
