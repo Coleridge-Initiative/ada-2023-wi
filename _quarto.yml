@@ -45,7 +45,7 @@ format:
     toc: true
     df-print: paged
     number-depth: 1
-    number-sections: true
+    number-sections: false
 
 editor: visual
 
