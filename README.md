@@ -1,12 +1,13 @@
 # Wisconsin ADA 2023 class
+
 The Coleridge Initiative, in partnership with the Wisconsin Department of Workforce Development, hosted a training class focused on unemployment to reemployment transitions inspired by the previous ETA-sponsored classes in 2020 and 2021. The program provided instruction on using big data tools, including SQL and R. Participants worked in teams to apply these methods on linked unemployment and wage data to develop research and data products to better understand program claimant behavior and outcomes.
 
-This repository contains the class materials for the Wisconsin Applied Data Analytics training program.
+This repository contains the [class materials](https://coleridge-initiative.github.io/ada-2023-wi/) for the Wisconsin Applied Data Analytics training program.
 
 **Data Sources Used for the Class:**
 
-- Wisconsin Program for Measuring Insured Unemployed Statistics (PROMIS) data
-- Wisconsin Unemployment Insurance Wage Records
+-   Wisconsin Program for Measuring Insured Unemployed Statistics (PROMIS) data
+-   Wisconsin Unemployment Insurance Wage Records
 
 **Class Program**
 
