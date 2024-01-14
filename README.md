@@ -11,14 +11,25 @@ This repository contains the class materials for the Wisconsin Applied Data Anal
 **Class Program**
 
 Day 1 - Overview, Project Scoping, and Privacy, Confidentiality, and Ethics
+
 Day 2 - Dataset Introductions and Project Scoping
+
 Day 3 - Exploratory Data Analysis/Cross-Section
+
 Day 4 - Cohort Analysis
+
 Day 5 - Record Linkage and Data Model
+
 Day 6 - Measurement
+
 Day 7 - Missingness and Inference Errors
+
 Day 8 - Visualization
+
 Day 9 - Project Status Presentations
+
 Day 10 - Characterizing Demand
+
 Day 11 - Supervised Machine Learning
+
 Day 12 - Communicating Results and Exporting Data
